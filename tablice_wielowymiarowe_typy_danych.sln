@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tablice_wielowymiarowe_typy_danych", "tablice_wielowymiarowe_typy_danych\tablice_wielowymiarowe_typy_danych.csproj", "{C5414510-000B-4500-932F-30533CE5A79F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8965D60-E521-415D-9A47-FDECEB9B0372}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5414510-000B-4500-932F-30533CE5A79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5414510-000B-4500-932F-30533CE5A79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5414510-000B-4500-932F-30533CE5A79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5414510-000B-4500-932F-30533CE5A79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B80BCA-2AEC-4040-A7D5-1E54022D3744}
+	EndGlobalSection
+EndGlobal
